@@ -7,7 +7,7 @@
   * 新建一个目录，将其初始化为Git代码库<br>
   $ git init [project-name]
 
-  * 下载一个项目和它的整个代码历史<br>
+  * 下载一个项目和它的整个代码历史<br>
   $ git clone [url]
 
 ### 二、配置
@@ -16,7 +16,7 @@ Git的设置文件为.gitconfig，它可以在用户主目录下（全局配置�
   * 显示当前的Git配置
   $ git config --list
 
-  * 编辑Git配置文件
+  * 编辑Git配置文件
   $ git config -e [--global]
 
   * 设置提交代码时的用户信息
